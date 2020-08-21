@@ -16,6 +16,8 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE, fig.height = 4, fig.width = 5, fig.align = "center", warning = FALSE)
 ```
 
+This examples file is also available [here](https://github.com/raamthapa/ggplot2-biodataclub).
+
 Data visualization is important in most phases of data analysis workflow and being able to create visualizations of data is a key step in being able to effectively communicate information and findings to others. 
 
 {ggplot2} is a plotting framework that is (relatively) easy to use, powerful and hassle-free. It is based on a set of principles "Grammar of graphic" and is designed to work in a layered fashion, starting with a layer showing the data then adding layers of graphical objects, annotations and statistical summaries.
